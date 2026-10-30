@@ -1,2 +1,2 @@
-# Lab_OOC_102
+# Lab_OOC_70
 Practicing C/C++ codes 
